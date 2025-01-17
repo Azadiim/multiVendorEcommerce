@@ -10,7 +10,7 @@ export default function Home() {
         <ThemeToggle />
       </div>
       <h1 className="text-xl text-blue-500">Welcome to the course!</h1>
-      <h1 className="text-4xl">heading</h1>
+      <h1 className="text-4xl">heading!!</h1>
     </div>
   );
 }
